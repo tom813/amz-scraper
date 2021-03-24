@@ -1,0 +1,6 @@
+integrate all nessecary funcitons in overall file
+
+get all values from checkboxes -> generate all subtopic urls
+    -> get number of underpages of each subtopic by : 61-90 von 239 Ergebnissen
+
+integrate word search next to discount search
